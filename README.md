@@ -73,4 +73,5 @@ Ich erweitere es kontinuierlich, um mich weiter in Richtung Junior Data Analyst 
 
 ---
 
-## 🙌 Vielen Dank für Ihren B
+## 🙌 Vielen Dank für Ihren Besuch!
+Ich freue mich über Feedback und Empfehlungen 🙂
