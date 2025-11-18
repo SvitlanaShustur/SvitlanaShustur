@@ -1,4 +1,4 @@
-## 👋 Hallo! Ich bin Svitlana, Data Analyst
+## 👋 Hallo! Ich bin Svitlana, Data Analyst!
 
 Ich bin eine angehende Data Analystin und arbeite mit Python, SQL (BigQuery), Pandas und Power BI.  
 Ich liebe es, Muster in Daten zu finden, Dashboards zu erstellen und komplexe Informationen für Unternehmen verständlich darzustellen.
