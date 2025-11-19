@@ -5,14 +5,27 @@ Ich liebe es, Muster in Daten zu finden, Dashboards zu erstellen und komplexe In
 
 ---
 
-## 🛠 Fähigkeiten
+## 🛠 Hard Skills
 
 - **Python:** Pandas, NumPy, matplotlib  
-- **SQL:** Google BigQuery  
-- **Datenvisualisierung:** Power BI  
-- **Datenverarbeitung:** Datenbereinigung, Transformation, Vorbereitung für Analysen  
+- **SQL:** Google BigQuery, Abfragen optimieren, Datenbankabfragen erstellen  
+- **Power BI:**, Datenmodellierung, interaktive Dashboards  
+- **Datenverarbeitung:** Datenbereinigung, Transformation, ETL-Grundlagen  
 - **Dateiformate:** CSV, Excel, JSON  
-- **Weitere Fähigkeiten:** Arbeiten mit Datumsgruppen, regulären Ausdrücken, grundlegende ETL-Prozesse  
+- **Analysemethoden:** RFM-Analyse, Retention Analysis, KPI-Berechnung  
+- **Weitere technische Fähigkeiten:** Arbeiten mit regulären Ausdrücken, Gruppierung nach Datumswerten, grundlegende Statistik  
+
+---
+
+## 🤝 Soft Skills
+
+- Analytisches Denken und Problemlösung  
+- Strukturierte und logische Arbeitsweise  
+- Hohe Lernbereitschaft und Selbstorganisation  
+- Fähigkeit, komplexe Informationen verständlich zu kommunizieren  
+- Verantwortungsvoller Umgang mit Daten  
+- Teamarbeit und Zuverlässigkeit  
+- Aufmerksamkeit für Details
 
 ---
 
